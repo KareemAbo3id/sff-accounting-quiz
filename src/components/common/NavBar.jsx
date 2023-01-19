@@ -68,7 +68,7 @@ export default function NavBar(props) {
               right: -20,
             }}
           />
-          <Tooltip onClick={handleCloseInstructionsModal} title="Close" placement="right">
+          <Tooltip onClick={handleCloseInstructionsModal} title="إغلاق" placement="right">
             <IconButton sx={{ position: 'absolute', left: 15, top: 22 }}>
               <CloseRoundedIcon sx={{ fontSize: '1.8rem', color: 'text.secondary' }} />
             </IconButton>

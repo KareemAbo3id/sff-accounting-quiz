@@ -1,7 +1,7 @@
 [
   {
-    "type": "MCQ",
-    "questionText": "تتضمن مذكرة تسوية البنك التالي:",
+    "questionType": "MCQ",
+    "questionTitle": "تتضمن مذكرة تسوية البنك التالي:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -23,7 +23,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "يعرف الخصم المسموح به على أنه:",
+    "questionTitle": "يعرف الخصم المسموح به على أنه:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -45,7 +45,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "الهدف من إعداد ميزان المراجعة هو:",
+    "questionTitle": "الهدف من إعداد ميزان المراجعة هو:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -67,7 +67,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "الهدف من إعداد قائمة المركز المالي هو:",
+    "questionTitle": "الهدف من إعداد قائمة المركز المالي هو:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -89,7 +89,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "يعرف علم المحاسبة على أنه:",
+    "questionTitle": "يعرف علم المحاسبة على أنه:",
     "answerOptions": [
       {
         "isCorrect": true,
@@ -111,7 +111,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "إذا قامت الشركتة بدفع فاتورة الهاتف نقداً، فالمستندات التي تثبت حصول هذه العملية هي:",
+    "questionTitle": "إذا قامت الشركتة بدفع فاتورة الهاتف نقداً، فالمستندات التي تثبت حصول هذه العملية هي:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -133,7 +133,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "يعرف إهلاك الأصول الثابتة على أنه:",
+    "questionTitle": "يعرف إهلاك الأصول الثابتة على أنه:",
     "answerOptions": [
       {
         "isCorrect": true,
@@ -155,7 +155,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "لإهلاك الأصل الثابت عدة طرق، منها:",
+    "questionTitle": "لإهلاك الأصل الثابت عدة طرق، منها:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -177,7 +177,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "الخطوة التي تلي ترحيل العملية المالية إلى دفتر الأستاذ هي:",
+    "questionTitle": "الخطوة التي تلي ترحيل العملية المالية إلى دفتر الأستاذ هي:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -199,7 +199,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "يتم تصنيف التدفقات النقدية في قائمة التدفقات النقدية على النحو:",
+    "questionTitle": "يتم تصنيف التدفقات النقدية في قائمة التدفقات النقدية على النحو:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -221,7 +221,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "القوائم الحسابات الختامية (القوائم المالية) هي:",
+    "questionTitle": "القوائم الحسابات الختامية (القوائم المالية) هي:",
     "answerOptions": [
       {
         "isCorrect": true,
@@ -243,7 +243,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "الفرق بين الميزانية والموازنة:",
+    "questionTitle": "الفرق بين الميزانية والموازنة:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -265,7 +265,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "ما هو الإيراد المقدم وأين يقع في قائمة المركز المالي؟",
+    "questionTitle": "ما هو الإيراد المقدم وأين يقع في قائمة المركز المالي؟",
     "answerOptions": [
       {
         "isCorrect": true,
@@ -287,7 +287,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "واحدة من العمليات المالية التالية تعتبر عملية رأسمالية:",
+    "questionTitle": "واحدة من العمليات المالية التالية تعتبر عملية رأسمالية:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -309,7 +309,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "واحدة من العبارات التالية تعتبر صحيحة فيما يتعلق بحساب الإيرادات المستحقة:",
+    "questionTitle": "واحدة من العبارات التالية تعتبر صحيحة فيما يتعلق بحساب الإيرادات المستحقة:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -331,7 +331,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "عرف التأمينات لدي الغير وأين تقع في القوائم المالية:",
+    "questionTitle": "عرف التأمينات لدي الغير وأين تقع في القوائم المالية:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -353,7 +353,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "واحدة من العبارات التالية تعتبر غير صحيحة:",
+    "questionTitle": "واحدة من العبارات التالية تعتبر غير صحيحة:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -375,7 +375,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "واحدة من العبارات التالية تعتبر صحيحة:",
+    "questionTitle": "واحدة من العبارات التالية تعتبر صحيحة:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -397,7 +397,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "لتقييم المخزون عدة طرق، أفضلها هي:",
+    "questionTitle": "لتقييم المخزون عدة طرق، أفضلها هي:",
     "answerOptions": [
       {
         "isCorrect": true,
@@ -419,7 +419,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "واحد من الحسابات التالية لا يعتبر من الحسابات ذات الطبيعة المدينة:",
+    "questionTitle": "واحد من الحسابات التالية لا يعتبر من الحسابات ذات الطبيعة المدينة:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -441,7 +441,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "واحد من الحسابات التالية لا يعتبر من الحسابات ذات الطبيعة الدائنة:",
+    "questionTitle": "واحد من الحسابات التالية لا يعتبر من الحسابات ذات الطبيعة الدائنة:",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -463,7 +463,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "إذا كان إجمالي المبالغ المدينة في حساب الصندوق = 5000 ريال، وإجمالي المبالغ الدائنة = 3000 ريال، فيكون رصيد الصندوق = .... :",
+    "questionTitle": "إذا كان إجمالي المبالغ المدينة في حساب الصندوق = 5000 ريال، وإجمالي المبالغ الدائنة = 3000 ريال، فيكون رصيد الصندوق = .... :",
     "answerOptions": [
       {
         "isCorrect": false,
@@ -485,7 +485,7 @@
   },
   {
     "type": "MCQ",
-    "questionText": "واحد من الأهداف التالية تسعى المحاسبة المالية إلى تحقيقه وهو:",
+    "questionTitle": "واحد من الأهداف التالية تسعى المحاسبة المالية إلى تحقيقه وهو:",
     "answerOptions": [
       {
         "isCorrect": false,

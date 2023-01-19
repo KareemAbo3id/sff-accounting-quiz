@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import RootPage from './pages/RootPage';
-import QuizPage from './pages/QuizPage';
+import McqQuizPage from './pages/quizzesPages/McqQuizPage';
 import FinishPage from './pages/FinishPage';
 import NavBar from './components/common/NavBar';
 import SffFooter from './components/common/SffFooter';
@@ -10,7 +10,7 @@ import ErrorPage from './pages/ErrorRoute/ErrorPage';
 // React Routers:
 const globalRouters = createBrowserRouter([
   { path: '/', element: <RootPage /> },
-  { path: '/quiz', element: <QuizPage /> },
+  { path: '/quiz', element: <McqQuizPage /> },
   { path: '/finish', element: <FinishPage /> },
   { path: '*', element: <ErrorPage /> },
 ]);
